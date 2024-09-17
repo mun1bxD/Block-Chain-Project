@@ -8,7 +8,7 @@ This project is a Java-based application that simulates key concepts of blockcha
 
 The project draws inspiration from the **Hack The Box** platform, renowned in the cybersecurity community, and follows a similar dark-themed UI style. It showcases an implementation of blockchain-like features using fundamental data structures, notably **Linked Lists**, which simulate the joining and creation of a blockchain network.
 
-<img src="Images/image2.png" alt="third" width="800">
+<img src="Images/image3.png" alt="third" width="800">
 
 ## Key Features
 
