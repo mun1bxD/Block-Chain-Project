@@ -4,28 +4,42 @@
 
 This project is a Java-based application that simulates key concepts of blockchain technology, focusing on authentication, public ledgers, and cryptocurrency transactions. The user interface is built using **Java Swing**, providing a responsive and interactive experience, while **MySQL** is used for managing all backend database operations.
 
+<img src="Images/image1.png" alt="third" width="800">
+
 The project draws inspiration from the **Hack The Box** platform, renowned in the cybersecurity community, and follows a similar dark-themed UI style. It showcases an implementation of blockchain-like features using fundamental data structures, notably **Linked Lists**, which simulate the joining and creation of a blockchain network.
+
+<img src="Images/image2.png" alt="third" width="800">
 
 ## Key Features
 
 - **User Authentication:**  
   Secure login and registration system for users, ensuring only authenticated individuals can access the application.
-  
+
+   <img src="Images/image2.png" alt="third" width="800">
+   
 - **Public Ledger:**  
   A public, transparent record of all transactions made by users. Each transaction is encrypted and Base64 encoded, ensuring the integrity and security of the data.
 
+   <img src="Images/image4.png" alt="third" width="800">
+   
 - **Buy & Sell Cryptocurrency:**  
   Users can buy and sell cryptocurrency. They can make transactions using predefined values like 1 coin, 0.25 coins, or any custom value.
 
+   <img src="Images/image8.png" alt="third" width="800">
+  
 - **Rate with Time Monitoring:**  
   The system tracks cryptocurrency rates over time, allowing users to make informed decisions to buy when the price is low and sell when the price is high.
 
+   <img src="Images/image6.png" alt="third" width="800">
+   
 - **Transaction Requirement:**  
   To promote user engagement and simulate real-world transaction behavior, users are required to complete at least three transactions before accessing certain functionalities.
 
+   <img src="Images/image5.png" alt="third" width="800">
+   
 - **Blockchain Simulation:**  
   Users can join the existing blockchain or start their own blockchain chain after completing a verification process. The blockchain is simulated using **Linked Lists**, representing the addition and linking of blocks (transactions) in the chain.
-
+   <img src="Images/image7.png" alt="third" width="800">
 ## Project Workflow
 
 1. **Login & Signup Page:**  
@@ -80,6 +94,3 @@ By completing this project, users will gain a comprehensive understanding of:
 
 This project provides a practical introduction to blockchain technology, covering authentication, transactions, and data encryption in a simulated environment. While not a real-time blockchain implementation, this project offers valuable insights into how blockchain works at a conceptual level. Moreover, it equips users with the technical skills necessary for building Java-based applications that interact with databases, manage transactions, and use fundamental data structures effectively.
 
----
-
-Feel free to explore the project, experiment with transactions, and start your own blockchain journey!
