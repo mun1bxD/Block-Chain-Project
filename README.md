@@ -89,6 +89,7 @@ By completing this project, users will gain a comprehensive understanding of:
 
 5. **Cryptography Basics:**  
    Learn how to apply basic cryptographic techniques to encrypt and secure data.
+   
 
 ## Conclusion
 
